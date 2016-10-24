@@ -1,4 +1,4 @@
-package com.lixh.stepview.stepview.ui;
+package com.lixh.stepview.library;
 
 import java.io.Serializable;
 

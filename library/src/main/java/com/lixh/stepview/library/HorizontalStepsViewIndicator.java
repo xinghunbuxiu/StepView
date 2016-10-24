@@ -1,4 +1,4 @@
-package com.lixh.stepview.stepview.ui;
+package com.lixh.stepview.library;
 
 
 import android.content.Context;
@@ -12,8 +12,6 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.TranslateAnimation;
-
-import com.lixh.stepview.stepview.R;
 
 import java.util.ArrayList;
 import java.util.List;

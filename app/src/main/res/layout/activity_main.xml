@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.lixh.stepview.stepview.MainActivity">
 
-    <com.lixh.stepview.stepview.ui.HorizontalStepsViewIndicator
+    <com.lixh.stepview.library.HorizontalStepsViewIndicator
         android:id="@+id/stepView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/stepView"
         android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
         android:clickable="true"
         android:onClick="onSign"
         android:text="签到" />

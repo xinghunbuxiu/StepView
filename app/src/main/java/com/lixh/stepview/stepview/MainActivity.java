@@ -4,8 +4,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.lixh.stepview.stepview.ui.HorizontalStepsViewIndicator;
-import com.lixh.stepview.stepview.ui.PointBean;
+
+import com.lixh.stepview.library.HorizontalStepsViewIndicator;
+import com.lixh.stepview.library.PointBean;
 
 import java.util.ArrayList;
 import java.util.List;
