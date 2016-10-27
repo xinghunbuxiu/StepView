@@ -3,6 +3,6 @@
 
 
 # 效果图
-![](/screenshot/src.png)
+![](src.png)
 
 
