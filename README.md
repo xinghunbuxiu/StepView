@@ -3,6 +3,6 @@
 
 
 # 效果图
-![](/screenshot/LG%83_{KILFBB2Q6YXRW4E8.png)
+![](/screenshot/src.png)
 
 
